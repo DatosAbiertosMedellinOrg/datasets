@@ -13,10 +13,10 @@ Coloca en este apartado el diccionario de datos o crea un ***issue*** con esta i
 ## Checklist
 Acá encontrarás todos los requisitos necesarios para aportar tus datos a este repositorio.
 
-* [] ¿Los datos compartidos están en concordancia con [la licencia de este repositorio](LICENSE.md)?
-* [] ¿Los datos están anonimizados?
-* [] ¿Los datos están normalizados?
-* [] ¿Los datos han sido asignados a una categoría?
-* [] ¿Los datos se encuentran en su carpeta respectiva?
-* [] ¿Has actualizado el [README.md](README.md) en la categoría correspondiente?
-* [] ¿Has compartido el diccionario de datos?
+- [ ] ¿Los datos compartidos están en concordancia con [la licencia de este repositorio](LICENSE.md)?
+- [ ] ¿Los datos están anonimizados?
+- [ ] ¿Los datos están normalizados?
+- [ ] ¿Los datos han sido asignados a una categoría?
+- [ ] ¿Los datos se encuentran en su carpeta respectiva?
+- [ ] ¿Has actualizado el [README.md](README.md) en la categoría correspondiente?
+- [ ] ¿Has compartido el diccionario de datos?
