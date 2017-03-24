@@ -2,9 +2,11 @@
 Repositorio que contiene todos los datasets proporcionados a nuestro colectivo ¡Qué viva el Open Data!
 
 # Listado de datos
-* Calidad del Aire
-  * Datos SIATA ***(datos disponibles desde el 2012-07-06 al 2017-02-28).***
-  * Datos ITM ***(datos disponibles desde 2016-04-08 al 2016-04-25).***
+
+* Ambiente
+  * Calidad del Aire
+    * Datos SIATA (datos disponibles desde el 2012-07-06 al *2017-02-28*).
+    * Datos ITM (datos disponibles desde 2016-04-08 al *2016-04-25*).
 
 # Contribuciones
 
